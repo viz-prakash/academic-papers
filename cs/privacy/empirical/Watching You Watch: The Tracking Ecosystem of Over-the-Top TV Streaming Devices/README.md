@@ -23,5 +23,6 @@ Authors made following recommendations in this paper:
 
 Limitations in their work include, crawler not being able to login on all the channels, analysing background traffic when there was no actual channel activity, and the study was only limited to two OTT platforms, leaving out the smart TV platforms such as Samsung, Vizio and Apple TV. 
 
-My suggestion: try to jailbreak the Roku to extract the firmware to install a rook certificate to see if they could include more channels in their study.
-Question: if channels and platforms asked users to give consent to send the tracking information? If so, from policy perspecticve, what would be ideal way to deal with this kind of consensual tracking?
+**My suggestion:** try to jailbreak the Roku to extract the firmware to install a rook certificate to see if they could include more channels in their study.
+
+**Question:** if channels and platforms asked users to give consent to send the tracking information? If so, from policy perspecticve, what would be ideal way to deal with this kind of consensual tracking?
