@@ -1,4 +1,4 @@
-Summary of [IoT Inspector: Crowdsourcing Labeled Network Traffic from Smart Home Devices at Scale](./IoT Inspector: Crowdsourcing Labeled Network Traffic from Smart Home Devices at Scale.pdf)
+Summary of [IoT Inspector: Crowdsourcing Labeled Network Traffic from Smart Home Devices at Scale](./IoT%20Inspector:%20Crowdsourcing%20Labeled%20Network%20Traffic%20from%20Smart%20Home%20Devices%20at%20Scale-2020.pdf)
 
 In this paper, Huang et al. have presented a new tool to study the smart home research. They developed and released IoT Inspector, an open-source tool that allows users to observe the traffic from smart home devices on their own home networks. Using this tool they crowdsourced the largest known dataset of labeled network traffic from smart home devices from within real-world home networks, while respecting the privacy of the volunteers. 
 
