@@ -1,5 +1,4 @@
-Summary of paper [All Things Considered: An Analysis of IoT Devices on Home Networks](./All Things
-Considered: An Analysis of IoT Devices on Home Networks.pdf)
+Summary of paper [All Things Considered: An Analysis of IoT Devices on Home Networks](./All%20Things%20Considered-%20An%20Analysis%20of%20IoT%20Devices%20on%20Home%20Networks-2019.pdf)
 
 In this paper, Kumar et al. discuss the IoT ecosystem across different geographical regions — how
 diverse and fragmented they are across regions; what are some most common categories of IoT devices
