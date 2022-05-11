@@ -1,5 +1,5 @@
 Summary of paper [Electronic Monitoring Smartphone
-Apps](./Electronic%20Monitoring%20Smartphone%20Apps-2022/Electronic%20Monitoring%20Smartphone%20Apps.pdf).
+Apps](./Electronic%20Monitoring%20Smartphone%20Apps.pdf).
 
 Owen et al. has conducted a privacy oriented study of Android apps used for Electronic Monitoring (EM) of people on
 probation, parole, pretrial release, or people in the juvenile or immigrant detention system.
