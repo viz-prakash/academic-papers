@@ -1,5 +1,5 @@
 **Summary of paper [Checking Websites’ GDPR Consent Compliance for Marketing
-Emails](../Website%20GDPR%20Consent%20Compliance-22.pdf)**
+Emails](./Website%20GDPR%20Consent%20Compliance-22.pdf)**
 
 In this paper authors did a through measurement of compliance of GDPR for marketing emails. In other words, how well
 websites comply with GDPR while sending emails -- servicing and makrketing -- to users, and how often they commit
