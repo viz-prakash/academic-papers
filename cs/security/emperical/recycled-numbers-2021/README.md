@@ -13,7 +13,7 @@ Authors have exploted the feature available to existing customers that allows th
 switch to a available number from web portal. Because both the telecom providers allow browsing available numbers that a
 user could pick, they harvested a list of number from the web portal of both the vendors and used heuristics to guess
 which number is probably recycled (means previous assigned to another customer but it's available again to the
-subscribers). Their idea is to pick numbers which don't have 10 available number between them; they assume that if
+subscribers). Their idea is to pick numbers which don't have 10 available numbers between them; they assume that if
 numbers are not seperated by 10 numbers they are probably never assigned to any customer.
 
 Based on this heuristics they collected numbers from both Verizon and T-Mobile. To verify if their hypothesis is correct
@@ -28,9 +28,9 @@ They also analyzed the recycled numbers by monitoring their activity for a week 
 don't get harmed in any form. They found out that these recycled numbers still receive calls and text with sensitive
 personal information about the previous ownders.
 
-They also highlight how these attacks could be used to IPV (Intimate partner violence) victims as the abuser could get
-access to the number of victim after finding out that victim has changed the number to avoid having contact by methods
-browsing the numbers available to subscriber on telecom provider website.
+They also highlight how these attacks could be used to Intimate partner violence (IPV) victims as the abuser could get
+access to the number of victim after finding out that victim has changed the number to avoid contact by 
+browsing the numbers available to subscribers on telecom provider website.
 
 Their suggestion to the carriers is that there should strict number of days a number should be aged before putting it
 back in market; they should limit the number of inquiry for changing the numbers for existing customers; warn the users
@@ -39,4 +39,4 @@ number parking if they want to change numbers, means reserver the number and not
 new number. They also suggest that websites should not use SMS based 2FA and password recovery, and should use other
 means for 2FA.
 
-Questions: Are these issues just related to US based telcom carriers or rest of the world as well?
+Questions: Are these issues just related to US based telecom carriers or rest of the world as well?
