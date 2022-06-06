@@ -15,24 +15,24 @@ about the authentication question deal try to answer them in various ways.
 To compromise the authentication practices used by carriers for SIM swap, techniques they used were follwoing. They are
 grouped, and if the method could be compromised it's described.
 
-*) Personal information: Street address, email address, date of birth. All these information about victim could be found
+* Personal information: Street address, email address, date of birth. All these information about victim could be found
 on data aggregators websites.
 
-*) Account information: Last 4 digits of payment card number, activation date, last payment date and amount. Last 4
+* Account information: Last 4 digits of payment card number, activation date, last payment date and amount. Last 4
 digits of card could be found on physical or electronic receipts. Activation date could be found on data aggregator
 websites. Last payment date and amount could be found by refilling the phone number with prepaid card which doesn't
 require any verfication, only phone number.
 
-*) Device information: IMEI (device serial number) and ICCID (SIM serial number). Both of which could be acquired by
+* Device information: IMEI (device serial number) and ICCID (SIM serial number). Both of which could be acquired by
 malicous apps, and IMEIs could also be acquired by radio devices.
 
-*) Usage information: Recent numbers called. This could be acquired by tricking the victim to make a call to a number
+* Usage information: Recent numbers called. This could be acquired by tricking the victim to make a call to a number
 controlled by attacker by giving them a miss call.
 
-*) Knowledge:  PIN or password, answers to security questions. PIN or passwords are secure but answers to security
+* Knowledge:  PIN or password, answers to security questions. PIN or passwords are secure but answers to security
 questions could be guessed. 
 
-*) Possession: SMS one-time passcode, email one-time passcode. These both are secure ways of authentication.
+* Possession: SMS one-time passcode, email one-time passcode. These both are secure ways of authentication.
 
 Using above ways to answer the question asked by CSR they were able to swap SIM of all the carriers, which included
 Verizion, T-Mobile, AT&T, TracFone, and US Mobile. They also found some times during the verfication CSR didn't ask any
